@@ -13,6 +13,7 @@
   다음과 같이 속성을 지정할 수 있습니다.
 ![Instruction-1](https://github.com/shlifedev/UnityUGUIMemberGenerator/blob/master/ScreenShots/inst3.gif)
 
+
  ## 커스텀 타입 추가하는방법
   UIScriptGenerator.cs를 열어 private static void CodeGenerator(List<Transform> transforms) 함수에서
   아래와같이 수정하세요 (<<<<<<<<-----------  확인)
@@ -53,6 +54,7 @@
             }
             
 ```
+=======
  ## 추가 예정기능 
   - Serialize Field add prefix '_' , and start character Tolower.
   - Add Property Generator (Get/Set option)
