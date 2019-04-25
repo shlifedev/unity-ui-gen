@@ -6,7 +6,7 @@
  UI컴퍼넌트를 대상으로 작동합니다. 
  
  ## 설명
- 
+ (https://github.com/shlifedev/UnityUGUIMemberGenerator/blob/master/ScreenShots/inst1.gif)
  ## 추가 예정기능 
   - Serialize Field add prefix '_' , and start character Tolower.
   - Add Property Generator (Get/Set option)
@@ -14,4 +14,5 @@
   - Better Inspector Design.
   - Tree-Gen System.
   - if selected transform has Button(Image children text) then make space line. (for readability improve)
+  - variable prefix character
   
