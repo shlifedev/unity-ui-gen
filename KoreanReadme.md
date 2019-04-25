@@ -1,5 +1,4 @@
 # UnityUGUIMemberGenerator
-
  어디에든 적용가능한 멤버 스크립트 자동 생성기입니다.
  
  현재 리포지토리명은 UGUI의 Image, Text 대상으로만 작성되어있기때문에 UGUI Prefix가 붙어있습니다.
