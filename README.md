@@ -9,21 +9,20 @@
  ## How to use it?
 
 * You can make auto-generate code as next.
-   Just Right-click the game-object you want to be automatically member variable create.
- 
-![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/master/ScreenShots/01.gif)
+   Just Right-click the game-object you want to be automatically member variable create. 
+![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/main/ScreenShots/01.gif)
 
 
 * Wrap Region
-![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/master/ScreenShots/02.gif)
+![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/main/ScreenShots/02.gif)
 
 
 * Component filter
  
-![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/master/ScreenShots/03.gif)
+![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/main/ScreenShots/03.gif)
 
 
 * Auto generate public/private keyword. 
-![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/master/ScreenShots/04.gif)
+![Instruction-1](https://github.com/shlifedev/unity-ui-gen/blob/main/ScreenShots/04.gif)
    
   
